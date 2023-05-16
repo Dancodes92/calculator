@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.title {
+  color: #333;
+  font-size: 2em;
+  margin-top: 20px;
+}
+
+.calculator {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.calculator input {
+  margin: 10px;
+  padding: 10px;
+  width: 200px;
+}
+
+.calculator .operators button {
+  margin: 5px;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.calculator button {
+  margin: 10px;
+  padding: 10px;
+  font-size: 20px;
+}
